@@ -1,0 +1,2 @@
+# .spacevim
+space vimrc
